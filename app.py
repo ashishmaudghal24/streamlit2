@@ -1,2 +1,4 @@
-print("Hello Ashish")
-print("Hello Ashish")
+import streamlit as st
+
+st.write("Hello Ashish")
+
